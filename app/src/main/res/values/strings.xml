@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">App Metrics</string>
+    <string name="analytics_app_name">Eddy Wally Soundboard</string>
+    <string name="no_of_downloads">Number of downloads:</string>
+    <string name="total_revenue">Total revenue:</string>
+    <string name="platform">Platform</string>
+    <string name="publication">Publication</string>
+    <string name="explore_more">Explore More</string>
+    <string name="by_date">By date</string>
+    <string name="by_country">By country</string>
+    <string name="select_countries">Select Countries</string>
+    <string name="done">Done</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="go">Go</string>
+    <string name="something_went_wrong">Oops! Something went wrong.</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="no_data_found">No data found</string>
+</resources>
